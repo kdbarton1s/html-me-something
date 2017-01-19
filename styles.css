@@ -1,0 +1,48 @@
+img {
+  width: 400px;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  margin: 100px 50px 10px;
+}
+
+div {
+  padding: 25px 25px 25px;
+}
+
+#intro {
+  font-size: 20px;
+}
+
+.heading {
+  color: red;
+  font-size: 2em;
+}
+
+* {
+  font-size: 1.10em;
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+article {
+  margin: 100px 600px 25px 25px;
+  text-align: left;
+  font-size: 1em;
+  border: 10px solid black
+}
+
+a {
+  color: green;
+}
+
+#intro-p {
+  font-weight: bold;
+}
